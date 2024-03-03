@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is ... and I'm a ..., from ....</h2>
+<h2 align="left">Hi 👋! My name is Sweety Bouri and I'm a ..., from ....</h2>
 
 ###
 
@@ -44,6 +44,6 @@
 
 <br clear="both">
 
-<img src="https://raw.githubusercontent.com/maurodesouza/maurodesouza/output/snake.svg" alt="Snake animation" />
+<img src="https://w7.pngwing.com/pngs/15/59/png-transparent-snake-animation-cartoon-snake-animals-photography-fauna.png" />
 
 ###
