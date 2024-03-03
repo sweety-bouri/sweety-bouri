@@ -1,4 +1,4 @@
-<h2 align="left">Hi 👋! My name is Sweety Bouri and I'm currently pursuing my Bachelor's in Engineering in Information Science and Engineering.</h2>
+<h2 align="left">Hi 👋! My name is Sweety Bouri and I'm currently pursuing a Bachelor's in Information Science and Engineering.</h2>
 ###
 
 <img align="right" height="150" src="https://i.imgflip.com/65efzo.gif"  />
