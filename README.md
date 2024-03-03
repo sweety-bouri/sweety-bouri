@@ -44,6 +44,5 @@
 
 <br clear="both">
 
-<img src="https://w7.pngwing.com/pngs/15/59/png-transparent-snake-animation-cartoon-snake-animals-photography-fauna.png" />
 
 ###
