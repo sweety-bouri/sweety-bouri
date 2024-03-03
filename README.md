@@ -33,10 +33,9 @@
 ###
 
 <div align="left">
-  <a href="YOUR_LINKEDIN_PROFILE_URL_HERE">
+  <a href="https://www.linkedin.com/in/sweety-bouri-49746a212">
     <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo" />
   </a>
- (https://www.linkedin.com/in/sweety-bouri-49746a212)https://www.linkedin.com/in/sweety-bouri-49746a212
 </div>
 
 
